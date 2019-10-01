@@ -9,39 +9,33 @@ width: auto;
 }
 
 
-img {
- 
-  border-radius: 10px;
-  padding: 10px;
-  width: 400px;
- float:center;
- }
- 
- .ok {
-	
-	float:right;
- }	
- 
- 
 
 
-h2{
-	color:black;
+.premier{
+	color:white;
 	text-align:center;
-	box-shadow: 10px 1px 19px grey;
-	background-color:white;}
+	box-shadow: 10px 1px 19px;
+	background-color:purple;}
 		
 		
 .page{
     
-    float:left;
+   
     align-items: auto;
-	box-shadow: 10px 1px 19px;
-    padding: 10px;
+	box-shadow: 1px 1px 19px;
+    padding: 40px;
    
 }
+
+h2{font-size: 170%;
+	font-family: fantasy;
+
+}
+
+h1{
+	color:white;
+	font-size:110%;
+	font-style: oblique;
+	background-color:purple;}
 	
-	.wewe{background-color:yellow;
-		font-size: auto;
-		
-	}		
+}	
