@@ -34,8 +34,14 @@ h2{
 		
 .page{
     
-    flex-flow:  row wrap;
+    float:left;
     align-items: auto;
+	box-shadow: 10px 1px 19px;
+    padding: 10px;
    
 }
 	
+	.wewe{background-color:yellow;
+		font-size: auto;
+		
+	}		
