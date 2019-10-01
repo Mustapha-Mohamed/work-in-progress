@@ -1,0 +1,41 @@
+body
+
+
+{background-image:url("https://medias.lequipe.fr/img-photo-jpg/bienfaits-montagne/1500000000874848/90:251,714:667-624-416-75/f494a.jpg");
+background-repeat: no-repeat;
+width: auto;
+ background-size: cover;
+
+}
+
+
+img {
+ 
+  border-radius: 10px;
+  padding: 10px;
+  width: 400px;
+ float:center;
+ }
+ 
+ .ok {
+	
+	float:right;
+ }	
+ 
+ 
+
+
+h2{
+	color:black;
+	text-align:center;
+	box-shadow: 10px 1px 19px grey;
+	background-color:white;}
+		
+		
+.page{
+    
+    flex-flow:  row wrap;
+    align-items: auto;
+   
+}
+	
