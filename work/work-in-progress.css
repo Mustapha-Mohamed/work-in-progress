@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image:url(https://i.pinimg.com/originals/0f/32/f9/0f32f949751cbd2079dab4aafe973f45.jpg) ;
+    background-size: cover;
+}
+
+.texte{
+
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 120%;
+    text-align: center;
+    padding: 2%;
+    margin-left: auto;
+    box-shadow: 10px 1px 19px;
+	
+}
+
+span.couleur{
+    color: yellow;
+    box-shadow: 1px 1px 19px;
+  }
+
+.logo{
+    height: 400px;
+    width: 330px;
+    margin-right: auto;
+    margin-left: auto;
+   
+}
+
+.image{
+    display: flex;
+}
+
